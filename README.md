@@ -1,7 +1,7 @@
 ```js
 // Hi there 👋 I'm Tasnim Elgarbi
 
-const tasnim = {
+let tasnim = {
     name: "Tasnim Elgarbi",
     role: "Front-End Developer",
     location: "Egypt",
