@@ -5,6 +5,7 @@ let tasnim = {
     name: "Tasnim Elgarbi",
     role: "Front-End Developer",
     location: "Egypt",
+    faculty: "Faculty of Computers and Informatices",
     techStack: {
         core: ["HTML", "CSS", "JavaScript"],
         learning: ["React", "Git", "UI Animation"],
@@ -17,8 +18,7 @@ let tasnim = {
     ],
     getInTouch: () => {
         return "📧 tasnim.elgarbi@email.com";
+       console.log("Thanks for visiting! Let's code something cool together 👩‍💻✨");
     }
 };
-
-console.log("Thanks for visiting! Let's code something cool together 👩‍💻✨");
 ```
