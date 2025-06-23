@@ -1,7 +1,7 @@
 ```js
 // Hi there 👋 I'm Tasnim Elgarbi
 
-let tasnim = {
+const tasnim = {
     name: "Tasnim Elgarbi",
     role: "Front-End Developer",
     location: "Egypt",
@@ -18,7 +18,7 @@ let tasnim = {
     ],
     getInTouch: () => {
         return "📧 tasnim.elgarbi@email.com";
-       console.log("Thanks for visiting! Let's code something cool together 👩‍💻✨");
     }
+ console.log("Thanks for visiting! Let's code something cool together 👩‍💻✨");
 };
 ```
