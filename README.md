@@ -12,7 +12,7 @@ const tasnim = {
         familiar: ["C++", "Java", "Responsive Design"]
     },
     projects: [
-        "Restaurant Menu with JS",
+        "Restaurant Menu Website",
         "Order Page using LocalStorage",
         "Fun UI Animations"
     ],
