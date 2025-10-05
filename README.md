@@ -7,15 +7,10 @@ const tasnim = {
     location: "Egypt",
     faculty: "Faculty of Computers and Informatices",
     techStack: {
-        core: ["HTML", "CSS", "JavaScript"],
-        learning: ["React", "Git", "UI Animation"],
+        core: ["HTML5", "CSS3", "JavaScript","Bootstrap","Tailwind css","React.js"],
+        learning: ["Git", "UI Animation"],
         familiar: ["C++", "Java", "Responsive Design"]
     },
-    projects: [
-        "Restaurant Menu Website",
-        "Order Page using LocalStorage",
-        "Fun UI Animations"
-    ],
     getInTouch: () => {
         return "📧 tasnim.elgarbi@email.com";
     }
